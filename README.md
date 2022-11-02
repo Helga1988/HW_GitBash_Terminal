@@ -1,1 +1,1 @@
-# HW_GitBash_Terminal
+# Работа с HW_GitBash_Terminal
